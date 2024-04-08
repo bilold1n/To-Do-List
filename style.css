@@ -107,10 +107,11 @@ h2 {
   margin-top: 50px;
 }
 #searchinp {
-  border: 1px solid rgba(0, 0, 0, 0.148);
+  border: 1px solid rgba(0, 0, 0, 0.268);
   padding: 10px 5px;
   width: 450px;
   border-radius: 3px;
+  outline: none;
 }
 #searchinp:focus {
   box-shadow: 1px 1px 8px 4px rgba(0, 141, 255, 0.2);
